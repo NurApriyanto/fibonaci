@@ -9,16 +9,7 @@ import java.util.Scanner;
 public class Jurnal_RPL8 {
 
     public static void main(String[] args) throws IOException {
-        // TODO code application logic here
-//        Scanner scan = new Scanner(System.in);
-//        System.out.println("masukan anggka");
-//        
-//        int cont = 0;
-//        int set = 1;
-//        
-//        System.out.println(set);
-//        if (int x=1; x<cont; x++){
-//            
+     
     BufferedReader dataInput = new BufferedReader(new InputStreamReader(System.in));
         String input;
         int banyakBilangan = 0;
